@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FishingTripScheduler
 //
-//  Created by User on 2/17/21.
+//  Created by John Russo on 2/17/21.
 //
 
 import UIKit
